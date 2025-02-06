@@ -1,8 +1,8 @@
-# Python FastAPI Authentication Solution
+# Python FastAPI Authorization Solution
 
 ## About
 
-This repo contains the solution code for the [Python FastAPI Authentication](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/python-fastapi-authentication/canvas-landing-pages/fallback.html) Lesson
+This repo contains the solution code for the [Python FastAPI Authorization](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/python-fastapi-authorization/canvas-landing-pages/fallback.html) Lesson
 
 ## Getting Started
 
@@ -11,7 +11,7 @@ This repo contains the solution code for the [Python FastAPI Authentication](htt
 2. Navigate into the project directory:
 
 ```sh
- cd python-fastapi-authentication-solution
+ cd python-fastapi-authorization-solution
 ```
 
 3. Install dependencies (this also creates the virtual environment if it doesn’t exist):
