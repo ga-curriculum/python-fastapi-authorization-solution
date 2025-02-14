@@ -10,9 +10,10 @@ sqlalchemy = "*"
 psycopg2-binary = "*"
 pydantic = "*"
 passlib = "*"
+bcrypt = "*"
 pyjwt = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.7"
+
